@@ -1,5 +1,5 @@
 # ios-hs
-Projects I created for iOS in high school.
+This repository contains some of the projects I created in high school for iOS. I took an independent study in iOS Development from September 2017 - June 2018.
 
 **Note - these projects need Xcode to run. **
 
