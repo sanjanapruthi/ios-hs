@@ -14,4 +14,5 @@ To run, open "Birthday Reminder 2.xcodeproj"
 
 This app is similar to a regular calculator, but it is specifically designed for shopping. It has additional buttons that allow you to input the tax and any sales on an item, and it will then calculate the total price of the item as well as whether it is over or under your budget. 
 
-To run, open "
+To run, open "ShoppingCalculator.xcodeproj"
+Note - this app runs best on an iPhone 7 simulator.
